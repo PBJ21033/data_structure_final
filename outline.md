@@ -12,8 +12,8 @@
 
 # Topic 2: Set
 * Introduction
-* Open addressing/chaining
-* Applications of a set
+* Open addressing
+* Chaining
 * Common operations with big O table
 * Example: Adding and removing from a set. Also will cover a union problem.
 * Problem to Solve: Write a program to see what values of one set are not in another set and create a new set.
