@@ -21,7 +21,7 @@ The next choice is called Chaining. This is when we make a list inside of a list
 
 ![Chaining image. Citation: https://www.geeksforgeeks.org/sets-in-python/](images/Chaining.png)
 
-# Big-O Notation Table
+## **Big-O Notation Table**
 | Common Set Operation  |  Description |  Python Code |  BIG O |  
 |-------------------------|--------------|--------------|--------|
 | add(value)             | Adds value to the set  | set.add(value)  | O(1)  |  |
