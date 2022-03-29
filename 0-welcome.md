@@ -6,3 +6,10 @@ Below is the way to contact me and and my name.
 * Email: ben21033@byui.edu
 * Name: Peter Benson Jr
 
+links to topics:
+
+[stacks](1-topic.md)
+
+[sets](2-topic.md)
+
+[trees](3-topic.md)
